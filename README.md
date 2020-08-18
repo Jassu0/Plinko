@@ -1,1 +1,1 @@
-# Plinko
+# Box Class
